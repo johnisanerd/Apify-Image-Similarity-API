@@ -240,4 +240,4 @@ image comparison api, image similarity api, find duplicate images, duplicate ima
 - Apify MCP docs: https://docs.apify.com/platform/integrations/mcp
 - uv: https://docs.astral.sh/uv/
 
-Last Updated: 2026.09.20
+Last Updated: 2026.09.21
